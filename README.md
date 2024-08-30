@@ -1,6 +1,9 @@
 # <img src="assets/Bebop_card.png" width="36">  DeadBot 
 DeadBot is an automation tool for maintaining the Deadlock Wiki - https://deadlocked.wiki/
 
+## DISCLAIMER
+Fork archived, see source repository https://github.com/deadlock-wiki/deadbot for further updates
+
 ## Guide
 For use of the raw data itself, all can be found in `output-data` directory, including json and csv formats
 
